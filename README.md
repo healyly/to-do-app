@@ -28,6 +28,7 @@ todo-app/
 
 ## Notes
 - Tasks are stored only in memory
+- Complete button disables once clicked
 - With more time, improvements may include:
     - Improved styling
     - Authentication such as a log in
